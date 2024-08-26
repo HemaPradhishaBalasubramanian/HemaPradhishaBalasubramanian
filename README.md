@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on study 
 - 📫 How to reach me linked in 
 - 😄 Pronouns: he-ma-pra-di-sha
-- ⚡ Fun fact: you are rich or poor your wish never be fulfilled so enjoy everything
+- ⚡ Fun fact: you are rich or poor your wish never have any end so wait for anything or anyone enjoy everything
+- 
 - 
 
 <!---
