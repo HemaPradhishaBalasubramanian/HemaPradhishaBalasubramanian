@@ -13,7 +13,7 @@
 - 💬 Ask me about **Python, Canva, HTML, CSS, JS, and Photopea**  
 - 📫 How to reach me **hemapradhi12@gmail.com**  
 - 📄 Know about my experiences [Resume/Portfolio](https://hemapradhishabalasubramanian.github.io/Portfolio.github.io/)  
-- ⚡ Fun fact **I schedule study time, then spend it deciding how to study 😅**
+- ⚡ Fun fact **I schedule study time, then spend it deciding how to study **
 
 ---
 
