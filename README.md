@@ -99,11 +99,11 @@ Fun Fact:
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma,vscode" />
 <a href="https://www.canva.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+  <img src="https://img.icons8.com/fluency/48/canva.png" alt="Canva" width="45" height="45"/>
 </a>
 
 <a href="https://www.photopea.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Photopea-18A497?style=for-the-badge"/>
+  <img src="https://www.photopea.com/promo/icon512.png" alt="Photopea" width="45" height="45"/>
 </a>
 </p>
 
