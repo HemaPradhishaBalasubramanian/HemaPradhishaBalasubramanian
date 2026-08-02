@@ -185,13 +185,9 @@ Python • OpenCV • MediaPipe
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HemaPradhishaBalasubramanian&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaPradhishaBalasubramanian&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HemaPradhishaBalasubramanian&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaPradhishaBalasubramanian&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -213,9 +209,8 @@ Python • OpenCV • MediaPipe
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HemaPradhishaBalasubramanian&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
+<img src="https://streak-stats.demolab.com?user=HemaPradhishaBalasubramanian&theme=tokyonight&hide_border=true"/>
 </p>
-
 ---
 
 # ⚡ Random Dev Quote
@@ -231,7 +226,7 @@ Python • OpenCV • MediaPipe
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HemaPradhishaBalasubramanian/HemaPradhishaBalasubramanian/output/github-snake-dark.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/HemaPradhishaBalasubramanian/HemaPradhishaBalasubramanian/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 ---
 
