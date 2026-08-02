@@ -213,9 +213,7 @@ Python • OpenCV • MediaPipe
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=HemaPradhishaBalasubramanian&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=HemaPradhishaBalasubramanian&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
 </p>
 
 ---
@@ -233,11 +231,8 @@ Python • OpenCV • MediaPipe
 # 🐍 Contribution Snake
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/HemaPradhishaBalasubramanian/HemaPradhishaBalasubramanian/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://raw.githubusercontent.com/HemaPradhishaBalasubramanian/HemaPradhishaBalasubramanian/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
-
 ---
 
 <div align="center">
