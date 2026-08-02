@@ -225,11 +225,10 @@ Python • OpenCV • MediaPipe
 
 # 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/HemaPradhishaBalasubramanian/HemaPradhishaBalasubramanian/output/github-contribution-grid-snake-dark.svg"/>
-</p>
----
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HemaPradhishaBalasubramanian/HemaPradhishaBalasubramanian/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
 <div align="center">
 
 ## ⭐ Thanks for visiting my profile!
