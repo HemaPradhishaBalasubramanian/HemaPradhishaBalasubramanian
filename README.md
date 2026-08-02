@@ -14,219 +14,114 @@
 
 ---
 
-# 💫 About Me
+💫 About Me
 
-```yaml
-Name: Hema Pradhisha Balasubramanian
+# developer_config.yamlname: "Hema Pradhisha Balasubramanian"role: "Final-Year Computer Science Engineering Student"focus: ["Cloud Computing", "DevOps", "Networking", "AI"]currently_learning: ["Terraform", "Jenkins", "Kubernetes", "Azure"]fun_fact: "Clouds are the only thing I enjoy getting lost in."
 
-Role:
-  Final-Year Computer Science Engineering Student
-
-Currently Learning:
-  - Azure
-  - AWS
-  - Docker
-  - Kubernetes
-  - Linux
-  - Terraform
-  - Jenkins
-  - React.js
-  - Data Structures & Algorithms
-
-Interested In:
-  - Cloud Computing
-  - DevOps
-  - Networking
-  - Artificial Intelligence
-  - Automation
-
-Fun Fact:
-  "Clouds are the only thing I enjoy getting lost in."
-```
-
----
-
-# 🌐 Connect With Me
-
+🌐 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/hemapradhisha">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="mailto:hemapradhi12@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://hemapradhisha.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://github.com/HemaPradhishaBalasubramanian">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+  <a href="https://www.linkedin.com/in/hemapradhisha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hemapradhi12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://hemapradhisha.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/HemaPradhishaBalasubramanian">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
----
+💻 Tech Stack
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>☁️ Cloud & DevOps</h3>
+      <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,jenkins,terraform,github" />
+    </td>
+    <td align="center" width="50%">
+      <h3>👨‍💻 Programming</h3>
+      <img src="https://skillicons.dev/icons?i=python,java,c,js" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🌐 Frontend & Backend</h3>
+      <img src="https://skillicons.dev/icons?i=react,html,css,mysql,firebase" />
+    </td>
+    <td align="center" width="50%">
+      <h3>🎨 Tools & Design</h3>
+      <img src="https://skillicons.dev/icons?i=figma,vscode,postman" />
+      <br>
+      <a href="https://www.canva.com/" target="_blank"><img src="https://img.icons8.com/fluency/48/canva.png" width="40" alt="Canva"/></a>
+    </td>
+  </tr>
+</table>
 
-# 💻 Tech Stack
+🚀 Featured Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🤖 Network Troubleshooting Assistant</h3>
+      <p align="center"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></p>
+      <p align="center">AI-powered assistant that analyzes network issues, finds root causes, and provides troubleshooting recommendations using LLMs, LangChain, and FAISS.</p>
+      <p align="center"><a href="LINK_TO_REPO_HERE"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" /></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔐 Forensic Data Analytics (Published)</h3>
+      <p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></p>
+      <p align="center">Machine learning model for detecting malicious network traffic and anomalies using the CICIDS2017 dataset, Wireshark, and Nmap.</p>
+      <p align="center"><a href="LINK_TO_REPO_HERE"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" /></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2">
+      <h3 align="center">👁️ Eye Blink Controlled Video Player</h3>
+      <p align="center"><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=mediapipe&logoColor=white" /></p>
+      <p align="center">A hands-free video player controlled through real-time eye blink detection using Python and OpenCV.</p>
+      <p align="center"><a href="LINK_TO_REPO_HERE"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" /></a></p>
+    </td>
+  </tr>
+</table>
 
-## ☁️ Cloud & DevOps
+💼 Experience
 
+☁️ Cloud Computing Intern | Postulate Infotech
+
+     Gained hands-on experience with IaaS, PaaS & SaaS models.
+     Worked on Docker Containerization, AWS, and Firebase deployments.
+
+🌐 Web Development Intern | Heal Bharat
+
+     Developed responsive web designs using HTML, CSS, and JavaScript.
+     Optimized UI components for better user experience.
+
+🏅 Certifications
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,jenkins,terraform,git,github" />
+  <img src="https://img.shields.io/badge/IBM-Cloud_Computing_Fundamentals-blue?style=flat-square&logo=ibm" />
+  <img src="https://img.shields.io/badge/Deloitte-Australia_Tech_Simulation-86BC24?style=flat-square&logo=deloitte" />
+  <img src="https://img.shields.io/badge/IBM-SQL_for_Databases-blue?style=flat-square&logo=ibm" />
+  <img src="https://img.shields.io/badge/Microsoft-Excel_Basics-217346?style=flat-square&logo=microsoftexcel" />
+  <img src="https://img.shields.io/badge/WordPress-Website_Development-21759B?style=flat-square&logo=wordpress" />
 </p>
 
-## 👨‍💻 Programming Languages
+📈 GitHub Analytics
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemaPradhishaBalasubramanian&theme=tokyonight&hide_border=true&background=0D1117" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=HemaPradhishaBalasubramanian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8" />
+  <br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=HemaPradhishaBalasubramanian&theme=dracula&no-frame=true&column=7&margin-w=10&margin-h=10" />
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HemaPradhishaBalasubramanian&theme=react-dark&hide_border=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF"/>
+</div>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,c,js" />
-</p>
+<div align="center">
 
-## 🌐 Frontend Development
+⚡ Random Dev Quote
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&bg_color=0D1117&border_color=38BDF8" />
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,react" />
-</p>
-
-## 🗄️ Database & Backend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,firebase,postman" />
-</p>
-
-## 🎨 Design Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=figma,vscode" />
-<a href="https://www.canva.com/" target="_blank">
-  <img src="https://img.icons8.com/fluency/48/canva.png" alt="Canva" width="45" height="45"/>
-</a>
-
-<a href="https://www.photopea.com/" target="_blank">
-  <img src="https://www.photopea.com/promo/icon512.png" alt="Photopea" width="45" height="45"/>
-</a>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 Network Troubleshooting Assistant Using LLM
-
-**Tech Stack**
-
-React.js • FastAPI • Docker • Ollama • LangChain • FAISS
-
-✨ AI-powered assistant that analyzes network issues, finds root causes, and provides troubleshooting recommendations.
-
----
-
-## 🔐 Forensic Data Analytics for Anomaly Detection *(Published)*
-
-**Tech Stack**
-
-Python • TensorFlow • Scikit-Learn • Wireshark • Nmap
-
-✨ Machine learning model for detecting malicious network traffic using the CICIDS2017 dataset.
-
----
-
-## 👁️ Eye Blink Controlled Video Player
-
-**Tech Stack**
-
-Python • OpenCV • MediaPipe
-
-✨ Hands-free video player controlled through eye blink detection.
-
----
-
-# 💼 Experience
-
-### ☁️ Cloud Computing Intern
-**Postulate Infotech**
-
-- Learned IaaS, PaaS & SaaS
-- Docker Containerization
-- AWS & Firebase
-- Cloud Deployment
-
----
-
-### 🌐 Web Development Intern
-**Heal Bharat**
-
-- Responsive Web Design
-- HTML, CSS, JavaScript
-- UI Optimization
-
----
-
-### 💼 Business Development Officer
-**KM UniTech**
-
-- Client Relationship Management
-- Team Collaboration
-- Business Growth
-
----
-
-# 🏅 Certifications
-
-🏆 IBM Cloud Computing Fundamentals
-
-🏆 Deloitte Australia Technology Job Simulation
-
-🏆 SQL for Databases (IBM)
-
-🏆 Microsoft Excel Basics
-
-🏆 WordPress Website Development
-
-🏆 SketchUp 3D Modelling
-
----
-
-
-
-# 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HemaPradhishaBalasubramanian&theme=tokyonight&hide_border=true" />
-</p>
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HemaPradhishaBalasubramanian&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=HemaPradhishaBalasubramanian&theme=tokyonight&hide_border=true"/>
-</p>
----
-
-# ⚡ Random Dev Quote
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</p>
-
----
-
-
-## ⭐ Thanks for visiting my profile!
-
-### ☁️ *Clouds are the only thing I enjoy getting lost in.* 💙
-
-**If you like my work, don't forget to ⭐ my repositories!**
-
+Thanks for visiting my profile! If you like my work, don't forget to ⭐ my repositories!
 </div>
