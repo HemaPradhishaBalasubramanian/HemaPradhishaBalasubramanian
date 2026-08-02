@@ -1,69 +1,68 @@
-<h1 align="center">Hi 👋, I'm Hema Pradhisha Balasubramanian</h1>
+<div align="center">
 
-<h3 align="center">
-☁️ Cloud & DevOps Enthusiast | Python Developer | Frontend Developer | Networking Learner
-</h3>
+# 👋 Hi, I'm Hema Pradhisha Balasubramanian
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Enthusiast;Python+Developer;Frontend+Developer;AI+%26+Networking+Learner;Always+Building+Something+New+🚀" />
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+
+### ☁️ *Clouds are the only thing I enjoy getting lost in.* 💙
+
+<img src="https://komarev.com/ghpvc/?username=HemaPradhishaBalasubramanian&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
+
+</div>
+
+---
+
+# 💫 About Me
+
+```yaml
+Name: Hema Pradhisha Balasubramanian
+
+Role:
+  Final-Year Computer Science Engineering Student
+
+Currently Learning:
+  - Azure
+  - AWS
+  - Docker
+  - Kubernetes
+  - Linux
+  - Terraform
+  - Jenkins
+  - React.js
+  - Data Structures & Algorithms
+
+Interested In:
+  - Cloud Computing
+  - DevOps
+  - Networking
+  - Artificial Intelligence
+  - Automation
+
+Fun Fact:
+  "Clouds are the only thing I enjoy getting lost in."
+```
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" alt="Coding">
-</p>
-
----
-
-## 👨‍💻 About Me
-
-🎓 Final-year Computer Science Engineering student
-
-☁️ Passionate about **Cloud Computing, DevOps, Networking, Automation, and AI**
-
-🌱 Currently learning
-- Azure
-- AWS
-- Docker
-- Kubernetes
-- Linux
-- Terraform
-- Jenkins
-- React.js
-- Data Structures & Algorithms
-
-💡 Interested in building scalable cloud applications and AI-powered solutions.
-
-💬 Ask me about
-- Python
-- HTML
-- CSS
-- JavaScript
-- React
-- Docker
-- Linux
-- Azure
-- Networking
-- Canva & Photopea
-
-📫 Email:
-**hemapradhi12@gmail.com**
-
-🌐 Portfolio:
-https://hemapradhisha.netlify.app
-
-📄 Resume:
-https://hemapradhisha.netlify.app
-
-⚡ Fun Fact:
-> I automate everything... except waking up on time 😄
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/hemapradhisha/" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40"/>
+<a href="https://www.linkedin.com/in/hemapradhisha">
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/HemaPradhishaBalasubramanian" target="_blank">
-<img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="40"/>
+<a href="mailto:hemapradhi12@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://hemapradhisha.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://github.com/HemaPradhishaBalasubramanian">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
 
@@ -71,89 +70,69 @@ https://hemapradhisha.netlify.app
 
 # 💻 Tech Stack
 
-### ☁️ Cloud & DevOps
+## ☁️ Cloud & DevOps
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,linux,jenkins,terraform,git,github" />
 </p>
 
-### 👨‍💻 Programming
+## 👨‍💻 Programming Languages
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,js" />
 </p>
 
-### 🌐 Web Development
+## 🌐 Frontend Development
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="45"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### 🗄️ Database & Tools
+## 🗄️ Database & Backend
 
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" width="45"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,firebase,postman" />
 </p>
 
-### 🎨 Design
+## 🎨 Design Tools
 
-<p>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45"/>
-<img src="https://www.photopea.com/promo/icon512.png" width="45"/>
-<img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="45"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=figma,vscode" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photopea-18A497?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 Network Troubleshooting Assistant Using LLM
+## 🤖 Network Troubleshooting Assistant Using LLM
 
-- React.js
-- FastAPI
-- Ollama
-- Docker
-- LangChain
-- FAISS
+**Tech Stack**
 
-✔ AI-powered assistant that analyzes network issues, identifies root causes, and recommends solutions using LLMs.
+React.js • FastAPI • Docker • Ollama • LangChain • FAISS
+
+✨ AI-powered assistant that analyzes network issues, finds root causes, and provides troubleshooting recommendations.
 
 ---
 
-### 🔐 Forensic Data Analytics for Anomaly Detection *(Published)*
+## 🔐 Forensic Data Analytics for Anomaly Detection *(Published)*
 
-- Python
-- TensorFlow
-- Scikit-learn
-- Wireshark
-- Nmap
+**Tech Stack**
 
-✔ Machine Learning model that detects malicious network traffic using the CICIDS2017 dataset.
+Python • TensorFlow • Scikit-Learn • Wireshark • Nmap
+
+✨ Machine learning model for detecting malicious network traffic using the CICIDS2017 dataset.
 
 ---
 
-### 👁️ Eye Blink Controlled Video Player
+## 👁️ Eye Blink Controlled Video Player
 
-- Python
-- OpenCV
-- MediaPipe
+**Tech Stack**
 
-✔ Hands-free media player controlled using intentional eye blinks.
+Python • OpenCV • MediaPipe
+
+✨ Hands-free video player controlled through eye blink detection.
 
 ---
 
@@ -162,47 +141,55 @@ https://hemapradhisha.netlify.app
 ### ☁️ Cloud Computing Intern
 **Postulate Infotech**
 
-- Learned IaaS, PaaS and SaaS
-- Worked with AWS & Firebase
-- Explored Docker and cloud deployment
+- Learned IaaS, PaaS & SaaS
+- Docker Containerization
+- AWS & Firebase
+- Cloud Deployment
+
+---
 
 ### 🌐 Web Development Intern
 **Heal Bharat**
 
-- Developed responsive websites
-- Improved UI responsiveness
-- Ensured cross-browser compatibility
+- Responsive Web Design
+- HTML, CSS, JavaScript
+- UI Optimization
+
+---
 
 ### 💼 Business Development Officer
 **KM UniTech**
 
-- Client relationship management
-- Business development initiatives
+- Client Relationship Management
+- Team Collaboration
+- Business Growth
 
 ---
 
-# 📜 Certifications
+# 🏅 Certifications
 
-🏅 IBM Cloud Computing Fundamentals
+🏆 IBM Cloud Computing Fundamentals
 
-🏅 Deloitte Australia Technology Job Simulation
+🏆 Deloitte Australia Technology Job Simulation
 
-🏅 SQL for Databases (IBM)
+🏆 SQL for Databases (IBM)
 
-🏅 Microsoft Excel Basics
+🏆 Microsoft Excel Basics
 
-🏅 WordPress Website Development
+🏆 WordPress Website Development
 
-🏅 SketchUp 3D Modelling
+🏆 SketchUp 3D Modelling
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HemaPradhishaBalasubramanian&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaPradhishaBalasubramanian&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HemaPradhishaBalasubramanian&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaPradhishaBalasubramanian&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -210,19 +197,59 @@ https://hemapradhisha.netlify.app
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=HemaPradhishaBalasubramanian&theme=tokyonight"/>
+
+<img src="https://streak-stats.demolab.com?user=HemaPradhishaBalasubramanian&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📈 Profile Views
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=HemaPradhishaBalasubramanian&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HemaPradhishaBalasubramanian&theme=tokyo-night"/>
+
 </p>
 
 ---
 
-## 💬 Quote
+# 🏆 GitHub Trophies
 
-> **"Turning ideas into scalable cloud solutions, one deployment at a time."** ☁️🚀
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HemaPradhishaBalasubramanian&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+
+</p>
+
+---
+
+# ⚡ Random Dev Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/HemaPradhishaBalasubramanian/HemaPradhishaBalasubramanian/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<div align="center">
+
+## ⭐ Thanks for visiting my profile!
+
+### ☁️ *Clouds are the only thing I enjoy getting lost in.* 💙
+
+**If you like my work, don't forget to ⭐ my repositories!**
+
+</div>
