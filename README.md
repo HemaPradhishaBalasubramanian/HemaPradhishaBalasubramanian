@@ -98,8 +98,13 @@ Fun Fact:
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma,vscode" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
-<img src="https://img.shields.io/badge/Photopea-18A497?style=for-the-badge"/>
+<a href="https://www.canva.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+</a>
+
+<a href="https://www.photopea.com/" target="_blank">
+  <img src="https://img.shields.io/badge/Photopea-18A497?style=for-the-badge"/>
+</a>
 </p>
 
 ---
@@ -182,13 +187,7 @@ Python • OpenCV • MediaPipe
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HemaPradhishaBalasubramanian&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaPradhishaBalasubramanian&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
----
 
 # 🔥 GitHub Streak
 <p align="center">
@@ -223,13 +222,6 @@ Python • OpenCV • MediaPipe
 
 ---
 
-# 🐍 Contribution Snake
-
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HemaPradhishaBalasubramanian/HemaPradhishaBalasubramanian/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-<div align="center">
 
 ## ⭐ Thanks for visiting my profile!
 
